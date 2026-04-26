@@ -16,7 +16,7 @@
 
 
 ### 🎓 Actualmente cursando Máster en Ciberseguridad (Campus Internacional de Ciberseguridad / Universidad Católica de Murcia)
-Apasionado por la seguridad de redes y la investigación técnica. Con mas de 10 años de experiencia optimizando arquitecturas Cisco, Huawei y MikroTik.
+Apasionado por las telecomunicaciones, la seguridad de redes y la investigación técnica. Con mas de 10 años de experiencia optimizando arquitecturas Cisco, Huawei y MikroTik.
 
 ---
 
