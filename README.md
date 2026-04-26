@@ -23,17 +23,16 @@ Apasionado por la seguridad de redes y la investigación técnica. Con mas de 10
 ### 🛠️ Core Stack
 | Area | Technologies |
 | :--- | :--- |
-| **Networking** | ![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=flat&logo=cisco&logoColor=white) ![MikroTik](https://img.shields.io/badge/MikroTik-EE1F25?style=flat) |
+| **Networking** | ![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=flat&logo=cisco&logoColor=white) ![MikroTik](https://img.shields.io/badge/MikroTik-EE1F25?style=flat) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white) |
 | **Firewalling** | ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat) ![ASA](https://img.shields.io/badge/Cisco_ASA-005A9C?style=flat) |
-| **Security** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-4F5D95?style=flat) |
+| **Security** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-4F5D95?style=flat) ![DefectDojo](https://img.shields.io/badge/DefectDojo-EF5350?style=flat&logo=owasp&logoColor=white)|
+
 
 ---
 
 ### 📝 Investigaciones y Artículos
-* **[Análisis de vulnerabilidades en protocolos de enrutamiento]** - *Investigación sobre debilidades en OSPF/BGP.*
-* **[Hardening de Firewalls Fortinet]** - *Guía práctica para perímetros de alta seguridad.*
-
+* 
 ---
 
 ### 📊 Mis Estadísticas de GitHub
-![Tus Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+<!--- ![Tus Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight) --->
