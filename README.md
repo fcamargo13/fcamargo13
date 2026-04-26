@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-# 🛡️ Telecommunications Engineer and Cybersecurity Specialist
+🛡️ Telecommunications Engineer and Cybersecurity Specialist
 </p>
 
 
